@@ -1,0 +1,9 @@
+[Core]
+Name = Groups
+Module = groups
+
+[Documentation]
+Description = An Err plugin for managing and interacting with groups of users
+
+[Python]
+Version = 3
